@@ -29,7 +29,7 @@ Focus: **Quantitative analysis, finance, automation**
 
 ## Projects
 
-- **Trading & risk-analysis bots** (on-chain data, liquidity, automation)  
+- **Trading & risk-analysis bots** (Bitvavo API, real-time, risk management, automation)
 - **Decision-support tools** (Excel/VBA, data-driven dashboards)  
 - **Academic data projects** (modeling, forecasting, analytics)  
 
